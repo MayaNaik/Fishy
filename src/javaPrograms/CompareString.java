@@ -22,8 +22,11 @@ if(s1.compareTo(s2)==0) {
 	else {
 	
 		System.out.println("strings r not equals");	
-		}
-	
+		
+	}
+System.out.println(s1.equals(s2));
+System.out.println(s1.compareTo(s2));
+System.out.println(s1==s2);
 		}
 }
 

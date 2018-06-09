@@ -1,7 +1,6 @@
 package javaPrograms;
 
 public class ExchangeWord {
-
 	public static void main(String[] args) {
 		String s="i am abc better than xyz";
 		String[] s1=s.split(" ");
